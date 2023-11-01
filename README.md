@@ -1,1 +1,1 @@
-# bun-server
+# next.js on bun runtime
